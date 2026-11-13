@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi there, I'm Kawsar Hamid 👋
+
+**Data Entry, Web Research, Lead Generation & Workflow Automation Specialist** based in Riyadh, Saudi Arabia.
+
+- 🔭 **What I Do:** B2B Lead Generation, Web Scraping, Data Cleaning, Excel/Google Sheets Automation, and No-Code Workflows (`n8n`, `Make.com`, `Python`).
+- 🌐 **Website:** [skh-contracting.netlify.app](https://skh-contracting.netlify.app/)
+- 📫 **Contact:** skhitbd7@gmail.com
 
 <!--
 **skhitbd7-bit/skhitbd7-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
