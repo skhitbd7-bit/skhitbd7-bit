@@ -23,4 +23,4 @@ I help businesses save time and scale faster through verified B2B prospect lists
 - **Portfolio & Services:** [skhitbd7.netlify.app](https://skhitbd7.netlify.app/)
 - **Email:** skhitbd7@gmail.com
 - **WhatsApp (Saudi Arabia):** +966 53 551 6280
-- - **WhatsApp (Bangladesh):** +880 1346-109529
+- **WhatsApp (Bangladesh):** +880 1346-109529
