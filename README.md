@@ -1,22 +1,25 @@
 ### Hi there, I'm Kawsar Hamid 👋
 
-**Data Entry, Web Research, Lead Generation & Workflow Automation Specialist** based in Riyadh, Saudi Arabia.
+**Founder of SKH ITBD | B2B Lead Generation, Web Research & Workflow Automation Specialist** based in Riyadh, Saudi Arabia.
 
-- 🔭 **What I Do:** B2B Lead Generation, Web Scraping, Data Cleaning, Excel/Google Sheets Automation, and No-Code Workflows (`n8n`, `Make.com`, `Python`).
-- 🌐 **Website:** [skhitbd7.netlify.app](https://skhitbd7.netlify.app/)
-- 📫 **Contact:** skhitbd7@gmail.com
+I help businesses save time and scale faster through verified B2B prospect lists, automated data pipelines, and high-converting digital marketing workflows.
 
-<!--
-**skhitbd7-bit/skhitbd7-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Core Services & Expertise
+- **B2B Lead Generation & Web Research:** Targeted prospect lists, LinkedIn & directory scraping, verified business emails, and CRM-ready spreadsheets.
+- **No-Code Workflow Automation:** Automated lead capture, email follow-ups, and multi-app integrations using **n8n** and **Make.com**.
+- **Data Cleaning & Spreadsheet Modeling:** Advanced **Google Sheets** & **Microsoft Excel** formulas, dashboards, and automated reporting.
+- **Paid Ads & Landing Pages:** High-converting **Meta & Google Ads** setup and fast single-page web portals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tools & Technologies
+`n8n` • `Make.com` • `Python` • `Google Sheets` • `Microsoft Excel` • `Meta Ads` • `Google Ads` • `HTML/CSS`
+
+---
+
+### 🌐 Let's Connect & Work Together
+- **Portfolio & Services:** [skhitbd7.netlify.app](https://skhitbd7.netlify.app/)
+- **Email:** skhitbd7@gmail.com
+- **WhatsApp (Saudi Arabia):** +966 53 551 6280
