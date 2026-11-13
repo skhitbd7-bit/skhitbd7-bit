@@ -3,7 +3,7 @@
 **Data Entry, Web Research, Lead Generation & Workflow Automation Specialist** based in Riyadh, Saudi Arabia.
 
 - 🔭 **What I Do:** B2B Lead Generation, Web Scraping, Data Cleaning, Excel/Google Sheets Automation, and No-Code Workflows (`n8n`, `Make.com`, `Python`).
-- 🌐 **Website:** [skh-contracting.netlify.app](https://skh-contracting.netlify.app/)
+- 🌐 **Website:** [skhitbd7.netlify.app](https://skhitbd7.netlify.app/)
 - 📫 **Contact:** skhitbd7@gmail.com
 
 <!--
